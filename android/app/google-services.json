@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "90651931137",
+    "project_id": "lista-2bed3",
+    "storage_bucket": "lista-2bed3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90651931137:android:1b40ec862fe9786b92c600",
+        "android_client_info": {
+          "package_name": "com.example.lista_productos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCbc1t58GOPI8-FnZ0adFvgHSQo-rsiDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90651931137:android:cfa508f8d0dfceda92c600",
+        "android_client_info": {
+          "package_name": "com.example.listafirebase_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCbc1t58GOPI8-FnZ0adFvgHSQo-rsiDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
